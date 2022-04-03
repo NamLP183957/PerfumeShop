@@ -1,0 +1,36 @@
+schema {
+    query: Query
+}
+
+type Query {
+    perfumes: [Perfume]
+    perfumesIds(ids: [ID]): [Perfume]
+    perfume(id: ID): Perfume
+}
+
+type Perfume {
+    id: Int
+    perfumeTitle: String
+        perfumer: String
+        year: Int
+        country: String
+        perfumeGender: String
+        fragranceTopNotes: String
+        fragranceMiddleNotes: String
+        fragranceBaseNotes: String
+        description: String
+        filename: String
+        price: Int
+        volume: String
+        type: String
+        perfumeRating: Float
+        reviews: [Review]
+}
+
+type Review {
+    id: Int
+    author: String
+    message: String
+    date: String
+    rating: Int
+}
