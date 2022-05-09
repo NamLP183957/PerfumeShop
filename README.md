@@ -18,8 +18,8 @@ và quản lý người dùng**
 
 ## Hình ảnh trang web:
 <div>
-    <img src="../PerfumeShop/Image/Homepage.jpg" width="350" alt="accessibility text">
     <br>
+    ![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/Homepage.jpg)
     <b>Trang chủ</b>
 </div>
 <br>
