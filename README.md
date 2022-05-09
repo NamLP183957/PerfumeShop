@@ -20,45 +20,53 @@ và quản lý người dùng**
 
 ![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/Homepage.jpg)
 
+<div><b>Trang chu</b></div>
 <br>
+
+![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/ListPerfume.jpg)
 <div>
-    <img src="../PerfumeShop/Image/ListPerfume.jpg" width="350" alt="accessibility text">
     <br>
     <b>Danh sách sản phẩm</b>
 </div>
 <br>
+
+![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/Perfume.jpg)
 <div>
-    <img src="../PerfumeShop/Image/Perfume.jpg" width="350" alt="accessibility text">
     <br>
     <b>Sản phẩm</b>
 </div>
 <br>
+
+![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/Cart.jpg)
 <div>
-    <img src="../PerfumeShop/Image/Cart.jpg" width="350" alt="accessibility text">
     <br>
     <b>Giỏ hàng</b>
 </div>
 <br>
+
+![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/Order.jpg)
 <div>
-    <img src="../PerfumeShop/Image/Order.jpg" width="350" alt="accessibility text">
     <br>
     <b>Đặt hàng</b>
 </div>
 <br>
+
+![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/EditAccount.jpg)
 <div>
-    <img src="../PerfumeShop/Image/EditAccount.jpg" width="350" alt="accessibility text">
     <br>
     <b>Chỉnh sửa tài khoản</b>
 </div>
 <br>
+
+![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/AddPerfume.jpg)
 <div>
-    <img src="../PerfumeShop/Image/AddPerfume.jpg" width="350" alt="accessibility text">
     <br>
     <b>Thêm sản phẩm</b>
 </div>
 <br>
+
+![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/EditPerfume.jpg)
 <div>
-    <img src="../PerfumeShop/Image/EditPerfume.jpg" width="350" alt="accessibility text">
     <br>
     <b>Chỉnh sửa sản phẩm</b>
 </div>
