@@ -19,7 +19,7 @@ và quản lý người dùng**
 ## Hình ảnh trang web:
 <div>
     <br>
-    ![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/Homepage.jpg)
+    ![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/Homepage.jpg?raw=true)
     <b>Trang chủ</b>
 </div>
 <br>
