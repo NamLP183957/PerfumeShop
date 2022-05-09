@@ -17,11 +17,9 @@ và quản lý người dùng**
 * Xác thực bằng JWT và Email
 
 ## Hình ảnh trang web:
-<div>
-    <br>
-    ![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/Homepage.jpg)
-    <b>Trang chủ</b>
-</div>
+
+![alt text](https://github.com/NamLP183957/PerfumeShop/blob/master/Image/Homepage.jpg)
+
 <br>
 <div>
     <img src="../PerfumeShop/Image/ListPerfume.jpg" width="350" alt="accessibility text">
